@@ -1,5 +1,7 @@
 # React Modal Dialog
 
+## Frok from https://github.com/qimingweng/react-modal-dialog
+
 [![npm](https://img.shields.io/npm/v/react-modal-dialog.svg?style=flat-square)](https://www.npmjs.com/package/react-modal-dialog)
 
 [Check out the demo here](http://www.qimingweng.com/react-modal-dialog/)
