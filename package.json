@@ -1,6 +1,6 @@
 {
   "name": "react-modal-dialog-fork",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "A simple, idiomatic, and declarative way to launch modal dialogs in ReactJS. Fork from https://github.com/qimingweng/react-modal-dialog",
   "repository": {
     "type": "git",
